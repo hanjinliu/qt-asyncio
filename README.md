@@ -45,6 +45,8 @@ btn.clicked.connect(on_clicked.start)
 btn.show()
 ```
 
+See the /examples folder for the detailed usage.
+
 ## License
 
 `qt-asyncio` is distributed under the terms of the [BSD 3-Clause](https://spdx.org/licenses/BSD 3-Clause.html) license.
